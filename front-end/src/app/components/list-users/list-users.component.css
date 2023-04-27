@@ -1,0 +1,16 @@
+.title {
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+.btn-info{
+  background: rgb(70,130,180);
+}
+
+.btn-danger {
+  background: rgb(220 ,20, 60);
+}
+
+.btn-dark{
+  background:	rgb(34, 41, 40);
+}
